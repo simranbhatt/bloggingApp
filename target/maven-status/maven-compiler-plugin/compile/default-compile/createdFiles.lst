@@ -1,0 +1,16 @@
+com\bloggingapp\dao\BlogPostDAO.class
+com\bloggingapp\dto\BlogPostDTO.class
+com\bloggingapp\services\UserService.class
+com\bloggingapp\services\BlogPostServiceInterface.class
+com\bloggingapp\services\ServiceFactory.class
+com\bloggingapp\dao\DAOFactory.class
+com\bloggingapp\servlets\BlogActionServlet.class
+com\bloggingapp\services\UserServiceInterface.class
+com\bloggingapp\db\DatabaseConnection.class
+com\bloggingapp\servlets\LoginServlet.class
+com\bloggingapp\servlets\BlogPostServlet.class
+com\bloggingapp\dao\UserDAOInterface.class
+com\bloggingapp\dao\BlogPostDAOInterface.class
+com\bloggingapp\services\BlogPostService.class
+com\bloggingapp\dto\UserDTO.class
+com\bloggingapp\dao\UserDAO.class

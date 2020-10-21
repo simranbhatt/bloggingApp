@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4329524e-17a5-4b5a-9263-7fe285e9a077" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i2q5KXviYd7ZomVwWaRUAyHHsz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.bloggingapp.services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.Tomcat">
+    <configuration name="BlogPostDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bloggingapp.dao.BlogPostDAO" />
+      <module name="BloggingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bloggingapp.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogPostDTO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bloggingapp.dto.BlogPostDTO" />
+      <module name="BloggingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bloggingapp.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogPostService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bloggingapp.services.BlogPostService" />
+      <module name="BloggingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bloggingapp.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bloggingapp.db.DatabaseConnection" />
+      <module name="BloggingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bloggingapp.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bloggingapp.dao.UserDAO" />
+      <module name="BloggingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bloggingapp.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BlogPostDTO" />
+      <item itemvalue="Application.DatabaseConnection" />
+      <item itemvalue="Application.UserDAO" />
+      <item itemvalue="Application.BlogPostDAO" />
+      <item itemvalue="Application.BlogPostService" />
+      <item itemvalue="Maven.Tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BlogPostDAO" />
+        <item itemvalue="Application.BlogPostDTO" />
+        <item itemvalue="Application.UserDAO" />
+        <item itemvalue="Application.BlogPostService" />
+        <item itemvalue="Application.DatabaseConnection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4329524e-17a5-4b5a-9263-7fe285e9a077" name="Default Changelist" comment="" />
+      <created>1601115849730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601115849730</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsp" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="168" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601116731869">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="168" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1304.768@62.0.1304.768" timestamp="1601116731869" />
+    <state x="519" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1603102891496">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="519" y="89" key="#com.intellij.ide.util.MemberChooser/62.0.1304.768@62.0.1304.768" timestamp="1603102891496" />
+    <state width="1260" height="258" key="GridCell.Tab.0.bottom" timestamp="1603217661942">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1260" height="258" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1603217661942" />
+    <state width="1260" height="258" key="GridCell.Tab.0.center" timestamp="1603217661942">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1260" height="258" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1603217661942" />
+    <state width="1260" height="258" key="GridCell.Tab.0.left" timestamp="1603217661942">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1260" height="258" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1603217661942" />
+    <state width="1260" height="258" key="GridCell.Tab.0.right" timestamp="1603217661942">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1260" height="258" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1603217661942" />
+    <state width="1260" height="233" key="GridCell.Tab.1.bottom" timestamp="1603040011866">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1260" height="233" key="GridCell.Tab.1.bottom/62.0.1304.768@62.0.1304.768" timestamp="1603040011866" />
+    <state width="1260" height="233" key="GridCell.Tab.1.center" timestamp="1603040011866">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1260" height="233" key="GridCell.Tab.1.center/62.0.1304.768@62.0.1304.768" timestamp="1603040011866" />
+    <state width="1260" height="233" key="GridCell.Tab.1.left" timestamp="1603040011866">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1260" height="233" key="GridCell.Tab.1.left/62.0.1304.768@62.0.1304.768" timestamp="1603040011866" />
+    <state width="1260" height="233" key="GridCell.Tab.1.right" timestamp="1603040011866">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1260" height="233" key="GridCell.Tab.1.right/62.0.1304.768@62.0.1304.768" timestamp="1603040011866" />
+    <state x="244" y="37" key="Maven.ArtifactSearchDialog" timestamp="1601119651983">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="244" y="37" key="Maven.ArtifactSearchDialog/62.0.1304.768@62.0.1304.768" timestamp="1601119651983" />
+    <state x="370" y="167" key="run.anything.popup" timestamp="1601562052587">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="370" y="167" key="run.anything.popup/62.0.1304.768@62.0.1304.768" timestamp="1601562052587" />
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603106798410">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1603106798410" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bloggingapp/dao/BlogPostDAO.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
